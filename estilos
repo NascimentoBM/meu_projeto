@@ -1,6 +1,3 @@
 body(
-color: blue;
-teste para branch B
-commit 1 da branch A
-commit da branch A
+color: red;
 )
